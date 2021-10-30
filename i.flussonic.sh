@@ -1,1 +1,1 @@
-python /etc/flussonic/start.py
+node /etc/flussonic/node.js && /opt/flussonic/bin/run
