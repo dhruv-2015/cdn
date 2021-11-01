@@ -3,7 +3,7 @@
 #!/bin/bash
 
 # Install nodejs
-pkg install nodejs-lts=16.13.0 -y
+pkg install nodejs-lts -y
 
 if [ $? -eq 0 ]; then
    echo "Installation successful"
