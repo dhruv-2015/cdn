@@ -9,4 +9,4 @@ echo \
 apt update
 apt-get install docker-ce docker-ce-cli containerd.io -y
 
-docker run -p 3500:3500 dhruv2015/jtvserver
+docker run -dp 3500:3500 dhruv2015/jtvserver
