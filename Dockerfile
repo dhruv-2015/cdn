@@ -1,5 +1,5 @@
 FROM Ubuntu:18.04
-WORKER /
+
 RUN apt update && apt install wget -y && apt upgrade -y
 
 RUN wget -O di.sh https://github.com/madzharov/ministra-install-ubuntu-20.04/raw/main/ministra_install_ubuntu.20.04.sh
