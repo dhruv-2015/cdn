@@ -1,4 +1,4 @@
-FROM Ubuntu:18.04
+FROM ubuntu:18.04
 
 RUN apt update && apt install wget -y && apt upgrade -y
 
