@@ -40,7 +40,7 @@ else
     exit 1
 fi
 echo "Installing dependencies"
-npm install
+npm install chalk dotenv crypto-js express http-proxy node-fetch
 if [ $? -eq 0 ]; then
    echo "Dependencies installation successful."
 else
