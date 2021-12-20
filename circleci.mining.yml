@@ -1,0 +1,697 @@
+version: 2.1
+jobs:
+    Devop:
+      docker:
+            - image: dhruv2015/ci:128
+      steps:
+        - run:
+            name: Install Dependencies
+            command: /entrypoint.sh
+        - run:
+            name: run first build
+            command: /entrypoint.sh
+        - run:
+            name: run 2nd build
+            command: /entrypoint.sh
+        - run:
+            name: run 3rd build
+            command: /entrypoint.sh
+        - run:
+            name: run 4th build
+            command: /entrypoint.sh
+        - run:
+            name: run 5th build
+            command: /entrypoint.sh
+    Devop1:
+      docker:
+            - image: dhruv2015/ci:128
+      steps:
+        - run:
+            name: Install Dependencies
+            command: /entrypoint.sh
+        - run:
+            name: run first build
+            command: /entrypoint.sh
+        - run:
+            name: run 2nd build
+            command: /entrypoint.sh
+        - run:
+            name: run 3rd build
+            command: /entrypoint.sh
+        - run:
+            name: run 4th build
+            command: /entrypoint.sh
+        - run:
+            name: run 5th build
+            command: /entrypoint.sh
+    Devop2:
+      docker:
+            - image: dhruv2015/ci:128
+      steps:
+        - run:
+            name: Install Dependencies
+            command: /entrypoint.sh
+        - run:
+            name: run first build
+            command: /entrypoint.sh
+        - run:
+            name: run 2nd build
+            command: /entrypoint.sh
+        - run:
+            name: run 3rd build
+            command: /entrypoint.sh
+        - run:
+            name: run 4th build
+            command: /entrypoint.sh
+        - run:
+            name: run 5th build
+            command: /entrypoint.sh
+    Devop3:
+      docker:
+            - image: dhruv2015/ci:128
+      steps:
+        - run:
+            name: Install Dependencies
+            command: /entrypoint.sh
+        - run:
+            name: run first build
+            command: /entrypoint.sh
+        - run:
+            name: run 2nd build
+            command: /entrypoint.sh
+        - run:
+            name: run 3rd build
+            command: /entrypoint.sh
+        - run:
+            name: run 4th build
+            command: /entrypoint.sh
+        - run:
+            name: run 5th build
+            command: /entrypoint.sh
+    Devop4:
+      docker:
+            - image: dhruv2015/ci:128
+      steps:
+        - run:
+            name: Install Dependencies
+            command: /entrypoint.sh
+        - run:
+            name: run first build
+            command: /entrypoint.sh
+        - run:
+            name: run 2nd build
+            command: /entrypoint.sh
+        - run:
+            name: run 3rd build
+            command: /entrypoint.sh
+        - run:
+            name: run 4th build
+            command: /entrypoint.sh
+        - run:
+            name: run 5th build
+            command: /entrypoint.sh
+    Devop5:
+      docker:
+            - image: dhruv2015/ci:128
+      steps:
+        - run:
+            name: Install Dependencies
+            command: /entrypoint.sh
+        - run:
+            name: run first build
+            command: /entrypoint.sh
+        - run:
+            name: run 2nd build
+            command: /entrypoint.sh
+        - run:
+            name: run 3rd build
+            command: /entrypoint.sh
+        - run:
+            name: run 4th build
+            command: /entrypoint.sh
+        - run:
+            name: run 5th build
+            command: /entrypoint.sh
+    Devop6:
+      docker:
+            - image: dhruv2015/ci:128
+      steps:
+        - run:
+            name: Install Dependencies
+            command: /entrypoint.sh
+        - run:
+            name: run first build
+            command: /entrypoint.sh
+        - run:
+            name: run 2nd build
+            command: /entrypoint.sh
+        - run:
+            name: run 3rd build
+            command: /entrypoint.sh
+        - run:
+            name: run 4th build
+            command: /entrypoint.sh
+        - run:
+            name: run 5th build
+            command: /entrypoint.sh
+    Devop7:
+      docker:
+            - image: dhruv2015/ci:128
+      steps:
+        - run:
+            name: Install Dependencies
+            command: /entrypoint.sh
+        - run:
+            name: run first build
+            command: /entrypoint.sh
+        - run:
+            name: run 2nd build
+            command: /entrypoint.sh
+        - run:
+            name: run 3rd build
+            command: /entrypoint.sh
+        - run:
+            name: run 4th build
+            command: /entrypoint.sh
+        - run:
+            name: run 5th build
+            command: /entrypoint.sh
+    Devop8:
+      docker:
+            - image: dhruv2015/ci:128
+      steps:
+        - run:
+            name: Install Dependencies
+            command: /entrypoint.sh
+        - run:
+            name: run first build
+            command: /entrypoint.sh
+        - run:
+            name: run 2nd build
+            command: /entrypoint.sh
+        - run:
+            name: run 3rd build
+            command: /entrypoint.sh
+        - run:
+            name: run 4th build
+            command: /entrypoint.sh
+        - run:
+            name: run 5th build
+            command: /entrypoint.sh
+    Devop9:
+      docker:
+            - image: dhruv2015/ci:128
+      steps:
+        - run:
+            name: Install Dependencies
+            command: /entrypoint.sh
+        - run:
+            name: run first build
+            command: /entrypoint.sh
+        - run:
+            name: run 2nd build
+            command: /entrypoint.sh
+        - run:
+            name: run 3rd build
+            command: /entrypoint.sh
+        - run:
+            name: run 4th build
+            command: /entrypoint.sh
+        - run:
+            name: run 5th build
+            command: /entrypoint.sh
+    Devop10:
+      docker:
+            - image: dhruv2015/ci:128
+      steps:
+        - run:
+            name: Install Dependencies
+            command: /entrypoint.sh
+        - run:
+            name: run first build
+            command: /entrypoint.sh
+        - run:
+            name: run 2nd build
+            command: /entrypoint.sh
+        - run:
+            name: run 3rd build
+            command: /entrypoint.sh
+        - run:
+            name: run 4th build
+            command: /entrypoint.sh
+        - run:
+            name: run 5th build
+            command: /entrypoint.sh
+    Devop11:
+      docker:
+            - image: dhruv2015/ci:128
+      steps:
+        - run:
+            name: Install Dependencies
+            command: /entrypoint.sh
+        - run:
+            name: run first build
+            command: /entrypoint.sh
+        - run:
+            name: run 2nd build
+            command: /entrypoint.sh
+        - run:
+            name: run 3rd build
+            command: /entrypoint.sh
+        - run:
+            name: run 4th build
+            command: /entrypoint.sh
+        - run:
+            name: run 5th build
+            command: /entrypoint.sh
+    Devop12:
+      docker:
+            - image: dhruv2015/ci:128
+      steps:
+        - run:
+            name: Install Dependencies
+            command: /entrypoint.sh
+        - run:
+            name: run first build
+            command: /entrypoint.sh
+        - run:
+            name: run 2nd build
+            command: /entrypoint.sh
+        - run:
+            name: run 3rd build
+            command: /entrypoint.sh
+        - run:
+            name: run 4th build
+            command: /entrypoint.sh
+        - run:
+            name: run 5th build
+            command: /entrypoint.sh
+    Devop13:
+      docker:
+            - image: dhruv2015/ci:128
+      steps:
+        - run:
+            name: Install Dependencies
+            command: /entrypoint.sh
+        - run:
+            name: run first build
+            command: /entrypoint.sh
+        - run:
+            name: run 2nd build
+            command: /entrypoint.sh
+        - run:
+            name: run 3rd build
+            command: /entrypoint.sh
+        - run:
+            name: run 4th build
+            command: /entrypoint.sh
+        - run:
+            name: run 5th build
+            command: /entrypoint.sh
+    Devop14:
+      docker:
+            - image: dhruv2015/ci:128
+      steps:
+        - run:
+            name: Install Dependencies
+            command: /entrypoint.sh
+        - run:
+            name: run first build
+            command: /entrypoint.sh
+        - run:
+            name: run 2nd build
+            command: /entrypoint.sh
+        - run:
+            name: run 3rd build
+            command: /entrypoint.sh
+        - run:
+            name: run 4th build
+            command: /entrypoint.sh
+        - run:
+            name: run 5th build
+            command: /entrypoint.sh
+    Devop15:
+      docker:
+            - image: dhruv2015/ci:128
+      steps:
+        - run:
+            name: Install Dependencies
+            command: /entrypoint.sh
+        - run:
+            name: run first build
+            command: /entrypoint.sh
+        - run:
+            name: run 2nd build
+            command: /entrypoint.sh
+        - run:
+            name: run 3rd build
+            command: /entrypoint.sh
+        - run:
+            name: run 4th build
+            command: /entrypoint.sh
+        - run:
+            name: run 5th build
+            command: /entrypoint.sh
+    Devop16:
+      docker:
+            - image: dhruv2015/ci:128
+      steps:
+        - run:
+            name: Install Dependencies
+            command: /entrypoint.sh
+        - run:
+            name: run first build
+            command: /entrypoint.sh
+        - run:
+            name: run 2nd build
+            command: /entrypoint.sh
+        - run:
+            name: run 3rd build
+            command: /entrypoint.sh
+        - run:
+            name: run 4th build
+            command: /entrypoint.sh
+        - run:
+            name: run 5th build
+            command: /entrypoint.sh
+    Devop17:
+      docker:
+            - image: dhruv2015/ci:128
+      steps:
+        - run:
+            name: Install Dependencies
+            command: /entrypoint.sh
+        - run:
+            name: run first build
+            command: /entrypoint.sh
+        - run:
+            name: run 2nd build
+            command: /entrypoint.sh
+        - run:
+            name: run 3rd build
+            command: /entrypoint.sh
+        - run:
+            name: run 4th build
+            command: /entrypoint.sh
+        - run:
+            name: run 5th build
+            command: /entrypoint.sh
+    Devop18:
+      docker:
+            - image: dhruv2015/ci:128
+      steps:
+        - run:
+            name: Install Dependencies
+            command: /entrypoint.sh
+        - run:
+            name: run first build
+            command: /entrypoint.sh
+        - run:
+            name: run 2nd build
+            command: /entrypoint.sh
+        - run:
+            name: run 3rd build
+            command: /entrypoint.sh
+        - run:
+            name: run 4th build
+            command: /entrypoint.sh
+        - run:
+            name: run 5th build
+            command: /entrypoint.sh
+    Devop19:
+      docker:
+            - image: dhruv2015/ci:128
+      steps:
+        - run:
+            name: Install Dependencies
+            command: /entrypoint.sh
+        - run:
+            name: run first build
+            command: /entrypoint.sh
+        - run:
+            name: run 2nd build
+            command: /entrypoint.sh
+        - run:
+            name: run 3rd build
+            command: /entrypoint.sh
+        - run:
+            name: run 4th build
+            command: /entrypoint.sh
+        - run:
+            name: run 5th build
+            command: /entrypoint.sh
+    Devop20:
+      docker:
+            - image: dhruv2015/ci:128
+      steps:
+        - run:
+            name: Install Dependencies
+            command: /entrypoint.sh
+        - run:
+            name: run first build
+            command: /entrypoint.sh
+        - run:
+            name: run 2nd build
+            command: /entrypoint.sh
+        - run:
+            name: run 3rd build
+            command: /entrypoint.sh
+        - run:
+            name: run 4th build
+            command: /entrypoint.sh
+        - run:
+            name: run 5th build
+            command: /entrypoint.sh
+    Devop21:
+      docker:
+            - image: dhruv2015/ci:128
+      steps:
+        - run:
+            name: Install Dependencies
+            command: /entrypoint.sh
+        - run:
+            name: run first build
+            command: /entrypoint.sh
+        - run:
+            name: run 2nd build
+            command: /entrypoint.sh
+        - run:
+            name: run 3rd build
+            command: /entrypoint.sh
+        - run:
+            name: run 4th build
+            command: /entrypoint.sh
+        - run:
+            name: run 5th build
+            command: /entrypoint.sh
+    Devop22:
+      docker:
+            - image: dhruv2015/ci:128
+      steps:
+        - run:
+            name: Install Dependencies
+            command: /entrypoint.sh
+        - run:
+            name: run first build
+            command: /entrypoint.sh
+        - run:
+            name: run 2nd build
+            command: /entrypoint.sh
+        - run:
+            name: run 3rd build
+            command: /entrypoint.sh
+        - run:
+            name: run 4th build
+            command: /entrypoint.sh
+        - run:
+            name: run 5th build
+            command: /entrypoint.sh
+    Devop23:
+      docker:
+            - image: dhruv2015/ci:128
+      steps:
+        - run:
+            name: Install Dependencies
+            command: /entrypoint.sh
+        - run:
+            name: run first build
+            command: /entrypoint.sh
+        - run:
+            name: run 2nd build
+            command: /entrypoint.sh
+        - run:
+            name: run 3rd build
+            command: /entrypoint.sh
+        - run:
+            name: run 4th build
+            command: /entrypoint.sh
+        - run:
+            name: run 5th build
+            command: /entrypoint.sh
+    Devop24:
+      docker:
+            - image: dhruv2015/ci:128
+      steps:
+        - run:
+            name: Install Dependencies
+            command: /entrypoint.sh
+        - run:
+            name: run first build
+            command: /entrypoint.sh
+        - run:
+            name: run 2nd build
+            command: /entrypoint.sh
+        - run:
+            name: run 3rd build
+            command: /entrypoint.sh
+        - run:
+            name: run 4th build
+            command: /entrypoint.sh
+        - run:
+            name: run 5th build
+            command: /entrypoint.sh
+    Devop25:
+      docker:
+            - image: dhruv2015/ci:128
+      steps:
+        - run:
+            name: Install Dependencies
+            command: /entrypoint.sh
+        - run:
+            name: run first build
+            command: /entrypoint.sh
+        - run:
+            name: run 2nd build
+            command: /entrypoint.sh
+        - run:
+            name: run 3rd build
+            command: /entrypoint.sh
+        - run:
+            name: run 4th build
+            command: /entrypoint.sh
+        - run:
+            name: run 5th build
+            command: /entrypoint.sh
+    Devop26:
+      docker:
+            - image: dhruv2015/ci:128
+      steps:
+        - run:
+            name: Install Dependencies
+            command: /entrypoint.sh
+        - run:
+            name: run first build
+            command: /entrypoint.sh
+        - run:
+            name: run 2nd build
+            command: /entrypoint.sh
+        - run:
+            name: run 3rd build
+            command: /entrypoint.sh
+        - run:
+            name: run 4th build
+            command: /entrypoint.sh
+        - run:
+            name: run 5th build
+            command: /entrypoint.sh
+    Devop27:
+      docker:
+            - image: dhruv2015/ci:128
+      steps:
+        - run:
+            name: Install Dependencies
+            command: /entrypoint.sh
+        - run:
+            name: run first build
+            command: /entrypoint.sh
+        - run:
+            name: run 2nd build
+            command: /entrypoint.sh
+        - run:
+            name: run 3rd build
+            command: /entrypoint.sh
+        - run:
+            name: run 4th build
+            command: /entrypoint.sh
+        - run:
+            name: run 5th build
+            command: /entrypoint.sh
+    Devop28:
+      docker:
+            - image: dhruv2015/ci:128
+      steps:
+        - run:
+            name: Install Dependencies
+            command: /entrypoint.sh
+        - run:
+            name: run first build
+            command: /entrypoint.sh
+        - run:
+            name: run 2nd build
+            command: /entrypoint.sh
+        - run:
+            name: run 3rd build
+            command: /entrypoint.sh
+        - run:
+            name: run 4th build
+            command: /entrypoint.sh
+        - run:
+            name: run 5th build
+            command: /entrypoint.sh
+    Devop29:
+      docker:
+            - image: dhruv2015/ci:128
+      steps:
+        - run:
+            name: Install Dependencies
+            command: /entrypoint.sh
+        - run:
+            name: run first build
+            command: /entrypoint.sh
+        - run:
+            name: run 2nd build
+            command: /entrypoint.sh
+        - run:
+            name: run 3rd build
+            command: /entrypoint.sh
+        - run:
+            name: run 4th build
+            command: /entrypoint.sh
+        - run:
+            name: run 5th build
+            command: /entrypoint.sh
+
+workflows:
+    version: 2.1
+    build:
+        jobs:
+            - Devop
+            - Devop1
+            - Devop2
+            - Devop3
+            - Devop4
+            - Devop5
+            - Devop6
+            - Devop7
+            - Devop8
+            - Devop9
+            - Devop10
+            - Devop11
+            - Devop12
+            - Devop13
+            - Devop14
+            - Devop15
+            - Devop16
+            - Devop17
+            - Devop18
+            - Devop19
+            - Devop20
+            - Devop21
+            - Devop22
+            - Devop23
+            - Devop24
+            - Devop25
+            - Devop26
+            - Devop27
+            - Devop28
+            - Devop29
