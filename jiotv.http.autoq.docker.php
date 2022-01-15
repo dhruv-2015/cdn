@@ -1,6 +1,5 @@
 <?php
 include "ip.php";
-include "logincred.php";
 
 header("Content-Type: application/vnd.apple.mpegurl");
 echo '#EXTM3U'.PHP_EOL;
